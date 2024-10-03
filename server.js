@@ -77,5 +77,3 @@ app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
 });
 
-// Remember to close the connection when done
-// db.end(); - This can be used to close the connection once your app is done with all queries
